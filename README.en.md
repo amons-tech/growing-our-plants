@@ -21,11 +21,12 @@ Point your phone camera at this code to go to the same place. (For printing: [do
 |  |  |  |
 |---|---|---|
 | ![Choose a language](docs/language.png) | ![Today](docs/today-en.png) | ![Calendar](docs/calendar-ko.png) |
-| Pick a language once | Water and sun for every plant | A month per plant |
+| Pick a language once | Water, sun and Green MBTI per plant | A month per plant |
 
 ## What it does
 
-- Comes with a **care table for 100 common houseplants**. Pick one and the watering interval, watering method and preferred light are filled in.
+- Comes with a **care table for 109 common plants**. In **Add a plant**, take a photo and pick from **Plants I know · LIST**; watering, light, temperature and humidity are filled in. Not in the list? Just type the name.
+- Every plant gets a four-letter **Green MBTI**: light · temperature · humidity · watering. Monstera is `M W N s`, sago palm `D F A d`. The **Guide** tab explains each letter.
 - On **Today**, each plant has a water box and a sun box. **Tap anywhere on a box** to mark it done.
 - Late is red, due today is blue or yellow, done is green.
 - Above the water box you see the **watering code** (e.g. `s` when the top is dry); above the sun box the **light code** (e.g. `M` bright indirect). The **Guide** tab explains them.
@@ -61,7 +62,7 @@ In **Settings → So reminders arrive on time**, make sure all three show **✓*
 | Exact alarms | Rings at the time you set |
 | Not battery-optimized | Stops power saving from blocking reminders |
 
-Then add plants from **Plants → Pick from the list** and set your water and sun reminder times in Settings.
+Then add plants from **Plants → Add a plant** and set your water and sun reminder times in Settings.
 
 ## Privacy
 
@@ -72,7 +73,7 @@ Then add plants from **Plants → Pick from the list** and set your water and su
 ## Good to know
 
 - The care table gives **indoor averages**. Pots, soil and light differ, so adjust each plant with −/+.
-- **Family sharing** and **identifying plants from a photo** come in the next version.
+- **Family sharing** and **AI plant identification** come in the next version.
 
 ## Contact
 
