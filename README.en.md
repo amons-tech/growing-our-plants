@@ -25,8 +25,10 @@ Point your phone camera at this code to go to the same place. (For printing: [do
 
 ## What it does
 
-- Comes with a **care table for 109 common plants**. In **Add a plant**, take a photo and pick from **Plants I know · LIST**; watering, light, temperature and humidity are filled in. Not in the list? Just type the name.
+- Comes with a **care table for 209 common plants**. In **Add a plant**, take a photo and pick from **Plants I know · LIST**; watering, light, temperature and humidity are filled in. Not in the list? Just type the name.
 - Every plant gets a four-letter **Green MBTI**: light · temperature · humidity · watering. Monstera is `M W N s`, sago palm `D F A d`. The **Guide** tab explains each letter.
+- Use the **Green MBTI** button at the top of **Plants** to filter your plants. Pick several letters to see only the plants that match all of them.
+- Tap a plant, then its photo, to **change the photo** at any time.
 - On **Today**, each plant has a water box and a sun box. **Tap anywhere on a box** to mark it done.
 - Late is red, due today is blue or yellow, done is green.
 - Above the water box you see the **watering code** (e.g. `s` when the top is dry); above the sun box the **light code** (e.g. `M` bright indirect). The **Guide** tab explains them.
