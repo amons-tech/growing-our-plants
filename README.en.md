@@ -38,6 +38,20 @@ Point your phone camera at this code to go to the same place. (For printing: [do
 - The **Calendar** tab shows a month of watering and sun per plant.
 - You get a **reminder** at the times you set when something is due. It keeps working with the app closed and after a restart.
 
+## 👨‍👩‍👧 Care together as a family
+
+So Dad's phone doesn't nag about watering a plant Mom already watered, the whole family shares the same plants and records.
+
+1. One person taps **Settings → Create a family** and enters what the family calls them (e.g. Mom). That phone's plants and records become the family's, and a **6-character invite code** appears.
+2. Tap **Send code** to share it by message.
+3. Everyone else opens **Settings → Join with a code** on their phone and enters the code and their name.
+
+- When someone checks water or sun, the other phones update **automatically** (within 30 seconds while the app is open). Tap **Sync** at the top right to fetch right away.
+- Just before a reminder rings, the phone checks the family's records, so **tasks someone already did are left out**. For this to work on time, *Not battery-optimized* must show ✓.
+- Each record shows who did it. Anyone in the family can add, edit or delete plants.
+- **Leave family** keeps the family's records, and that phone goes back to the records it had before joining.
+- Checks made while offline are not saved; tap again once you're connected.
+
 ## Nine languages
 
 한국어 · English · 日本語 · 简体中文 · 廣東話 · Français · Italiano · Deutsch · Español
@@ -68,14 +82,17 @@ Then add plants from **Plants → Add a plant** and set your water and sun remin
 
 ## Privacy
 
-- Records are stored **only on this phone**.
-- Nothing is sent to the internet. No server, no account, no ads.
+- Without family sharing, records stay **only on this phone** and nothing is sent to the internet.
+- **With family sharing**, plants (name, photo, schedule), water and sun records, and family names are stored on Google Firebase servers (Seoul). No email or phone number is asked for; each phone gets a nameless account automatically.
+- Only family members who joined with the invite code can read or write those records.
+- No ads.
 - Plant photos are kept as small images inside the app. Photos taken with the camera also stay in your gallery's *GrowingOurPlants* folder.
 
 ## Good to know
 
 - The care table gives **indoor averages**. Pots, soil and light differ, so adjust each plant with −/+.
-- **Family sharing** and **AI plant identification** come in the next version.
+- **AI plant identification** comes in the next version.
+- If you uninstall and reinstall the app, the phone leaves the family. Join again with the invite code and the family's records are all there.
 
 ## Contact
 
